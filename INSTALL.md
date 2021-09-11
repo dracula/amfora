@@ -1,17 +1,11 @@
-### [X](http://link-to-x.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
+### [Amfora](https://github.com/makeworld-the-better-one/amfora)
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download the [GitHub .zip archive](https://github.com/dracula/amfora/archive/master.zip) and unzip the file.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Copy the contents of the `theme.toml` file from the `.zip` archive
+2. Replace the `[theme]` section, and its content, in your Amfora configuration file at `~/.config/amfora/config.toml` with the configuration copied in the previous step
+3. Launch Amfora
