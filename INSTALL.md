@@ -6,6 +6,6 @@ Download the [GitHub .zip archive](https://github.com/dracula/amfora/archive/mas
 
 #### Activating theme
 
-1. Copy the contents of the `theme.toml` file from the `.zip` archive
+1. Copy the contents of the `Dracula.toml` file from the `.zip` archive
 2. Replace the `[theme]` section, and its content, in your Amfora configuration file at `~/.config/amfora/config.toml` with the configuration copied in the previous step
 3. Launch Amfora
