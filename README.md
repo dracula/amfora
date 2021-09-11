@@ -4,6 +4,8 @@
 
 ![Screenshot](./screenshot.png)
 
+Font used in the example screenshot is [mononoki](https://madmalik.github.io/mononoki/).
+
 ## Install
 
 All instructions can be found at [draculatheme.com/amfora](https://draculatheme.com/amfora).
